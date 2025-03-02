@@ -1,8 +1,12 @@
 # UG2---PRAK-ALPRO
 
+
+===========================================================================================================
+
 SOAL 1 
 Belanja Diskon
 Selain menjadi guru matematika, Deni juga seorang pedagang. Saat ini toko Deni sedang mengadakan diskon (dalam persen). Karena banyaknya orderan yang masuk, Deni kerepotan untuk menghitung total belanjaan pelanggannya. Buatlah sebuah program perhitungan bagi toko Deni yang sedang diskon.
+
 ===========================================================================================================
 
 SOAL 2
